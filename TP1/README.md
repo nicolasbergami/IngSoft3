@@ -1,2 +1,3 @@
-# IngSoft3 
-primeras lineas agregadas en readme.md
+llenando readme
+
+Nicolas Bergami
